@@ -39,6 +39,23 @@
         grid-template-columns: 1fr 1fr;
     } 
 
+    #page-create-point form legend {
+        display: grid;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #page-create-point form legend h2 {
+        display: grid;
+        align-items: center;
+        justify-content: center; 
+    }
+
+    #page-create-point form button {
+       
+        
+    }
+
 }
 
 @media (min-width: 1700px) {
