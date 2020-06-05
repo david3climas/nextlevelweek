@@ -1,9 +1,4 @@
 
-
-
-
-
-
 function popularUFs() {
     const ufSelect = document.querySelector("select[name=uf]")
 
