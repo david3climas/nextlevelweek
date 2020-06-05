@@ -1,0 +1,26 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "\"# nextlevelweek\"",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david3climas/nextlevelweek.git"
+  },
+  "keywords": [],
+  "author": "David Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david3climas/nextlevelweek/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
